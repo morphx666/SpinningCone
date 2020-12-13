@@ -1,4 +1,4 @@
 # SpinningCone
-Code inspired by @beesandbombs and The Coding Train
+Code inspired by [@beesandbombs](https://twitter.com/beesandbombs) and [The Coding Train](https://twitter.com/thecodingtrain)
 
 ![Spinning Cone GIF animation](https://xfx.net/stackoverflow/SpinningCone/spinningcone.gif)
